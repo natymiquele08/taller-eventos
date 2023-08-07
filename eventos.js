@@ -1,4 +1,3 @@
 document.getElementById("boton").addEventListener("click", function() {
-  alert("Hola soy div")
+  alert("Hola soy un div!");
 });
-
